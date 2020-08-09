@@ -29,7 +29,7 @@ const ChatWindow = (props) => {
               </div>
             </ListGroup.Item>
 
-            <ListGroup.Item variant="success" style={{ textAlign: "right" }}>
+            <ListGroup.Item variant="success" style={{ textAlign: "left" }}>
               Primary
               <div style={{ float: "right" }}>
                 1 hr ago <BsCheckAll color={"green"} /> <BsCheck />
