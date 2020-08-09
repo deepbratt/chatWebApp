@@ -1,2 +1,4 @@
+import ChatWindow from "./ChatWindow";
 import { LoginForm, SignupForm } from "./Forms";
-export { LoginForm, SignupForm };
+import LeftSidebar from "./LeftSidebar";
+export { LoginForm, SignupForm, LeftSidebar, ChatWindow };

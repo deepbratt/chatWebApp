@@ -10,7 +10,7 @@ function Home() {
         <Jumbotron>
           <h1>Welcome to MangoChat</h1>
           <p>
-            Chat seemlessly without any boudaries
+            Chat seemlessly without any boudaries 
           </p>
         </Jumbotron>
       </div>
