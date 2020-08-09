@@ -11,5 +11,7 @@ mongoose.connect(
     useNewUrlParser: true,
     useUnifiedTopology: true,
   },
-  function (req, res) {}
+  function (req, res) {
+    console.log("db connected yolo!");
+  }
 );
